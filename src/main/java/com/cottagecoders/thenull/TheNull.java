@@ -14,7 +14,7 @@ public class TheNull {
     return "hello";
   }
 
-  public String secetMessage() {
+  public String secretMessage() {
     return "This is the Secret Message";
   }
 
